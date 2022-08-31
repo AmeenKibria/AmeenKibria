@@ -14,7 +14,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 
 - 📄 Know about my experiences [Linkedid](https://www.linkedin.com/in/makibria/)
 <h1></h1>
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
