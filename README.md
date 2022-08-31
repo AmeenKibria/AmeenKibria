@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Terraform Cloud**
 
-- 👯 I’m looking to collaborate on **DevOps Architect Lead**
+- 👯 I’m looking to collaborate on **DevOps Lead Role**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/makibria/](https://www.linkedin.com/in/makibria/)
+- 📄 Know about my experiences [Linkedid](https://www.linkedin.com/in/makibria/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
