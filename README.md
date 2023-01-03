@@ -6,11 +6,11 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 <h1></h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameenkibria" alt="ameenkibria" /></a> </p>
 
-- 🔭 AWS Cloud Architect [Nordcloud Oy](www.nordcloud.com)
+- 🔭 Cloud Architect at [Nordcloud Oy](www.nordcloud.com)
 
 - 🌱 I’m currently learning **Terraform Cloud**
 
-- 👯 I’m looking to collaborate on **DevOps Lead Role**
+- 👯 I’m looking to collaborate on **ClouOperations Lead Role**
 
 - 📄 Know about my experiences [Linkedid](https://www.linkedin.com/in/makibria/)
 <h1></h1>
