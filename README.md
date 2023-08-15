@@ -5,6 +5,7 @@
 I am looking for a technical lead role who has wide knowledge about IT infrastructure, multi-cloud environments, cloud native solutions, automation and integration, DevOps, IaC, CI/CD and monitoring solutions. I am motivated to learn and develop my skill set according to business need. I have excellent interpersonal and technical skills, I am highly self motivated and I have analytical & hands-on approach to solve different problems.</p>
 
 <h1></h1>
+
 - 🔭 Cloud Architect at [Nordcloud Oy](www.nordcloud.com)
 
 - 🌱 I’m currently working with **AWS, Azure Active Directory and Terraform Cloud**
@@ -12,16 +13,21 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 - 👯 I’m looking to collaborate on **Platform Development/Enhancement Lead Role**
 
 - 📄 Know about my experiences [Linkedid](https://www.linkedin.com/in/makibria/)
-<h1></h1>
+
 
 <p align="left">
 </p>
-<h3 align="left">IT Leadership Skills</h3>
-  - Cloud Navite IT Strategy
-  - Modern and Agile Way of Working
-  - Innovation
+
+## IT Leadership Skills
+
+  - **Cloud Navite IT Strategy**
   
-<h3 align="left">Experienced in Technologies:</h3>
+  - **Modern and Agile Way of Working**
+    
+  - **Innovation**
+    
+  
+## Experienced in Technologies:
   <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="azure" width="40" height="40"/> </a> 
