@@ -57,10 +57,9 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 
 <h3 align="left">Contact me:</h3>
   <p align="middle"> 
-    <a href="mailto: makibria@gmail.com"> Send Email </a>
-    
+    <a href="mailto: makibria@gmail.com"> Send Email </a>  
     <a href="tel: +3584578714949"> Call me </a>
-</p> 
+  </p> 
 <h1></h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameenkibria&show_icons=true&locale=en" alt="ameenkibria" /></p>
