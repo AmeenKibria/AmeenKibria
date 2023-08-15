@@ -1,5 +1,5 @@
 <h1 align="left">Ameen Kibria</h1>
-<p align="left">A passionate DevOps Architect based in Finland.
+<p align="left">A passionate Cloud Architect along with DevSecOps mindset based in Finland.
 I am looking for a technical lead role who has wide knowledge about IT infrastructure, multi-cloud environments, cloud native solutions, automation and integration, DevOps, IaC, CI/CD and monitoring solutions. I am motivated to learn and develop my skill set according to business need. I have excellent interpersonal and technical skills, I am highly self motivated and I have analytical & hands-on approach to solve different problems.</p>
 <h1></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameenkibria&label=Profile%20views&color=0e75b6&style=flat" alt="ameenkibria" /> </p>
