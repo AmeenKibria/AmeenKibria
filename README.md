@@ -57,7 +57,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 
 <h3 align="left">Contact me:</h3>
   <p align="middle"> 
-    <a href="tel: 003584578714949" target="_blank" rel="noreferrer"> Call </a>
+    <a href="tel:6031112298">Click to call a customer support rep.</a>
     <a href="mailto: makibria@gmail.com" target="_blank" rel="noreferrer"> Send Email </a>
   </p> 
 <h1></h1>
