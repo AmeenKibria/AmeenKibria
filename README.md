@@ -4,7 +4,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 <h1></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameenkibria&label=Profile%20views&color=0e75b6&style=flat" alt="ameenkibria" /> </p>
 <h1></h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameenkibria" alt="ameenkibria" /></a> </p>
+
 
 - 🔭 Cloud Architect at [Nordcloud Oy](www.nordcloud.com)
 
