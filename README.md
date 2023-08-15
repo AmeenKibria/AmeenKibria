@@ -8,9 +8,9 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 
 - 🔭 Cloud Architect at [Nordcloud Oy](www.nordcloud.com)
 
-- 🌱 I’m currently learning **Terraform Cloud**
+- 🌱 I’m currently working with **AWS, Azure Active Directory and Terraform Cloud**
 
-- 👯 I’m looking to collaborate on **ClouOperations Lead Role**
+- 👯 I’m looking to collaborate on **Platform Development/Enhancement Lead Role**
 
 - 📄 Know about my experiences [Linkedid](https://www.linkedin.com/in/makibria/)
 <h1></h1>
