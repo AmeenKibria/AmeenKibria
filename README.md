@@ -5,7 +5,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameenkibria&label=Profile%20views&color=0e75b6&style=flat" alt="ameenkibria" /> </p>
 
 <h1></h1>
-- 🔭 **Cloud Architect** at [Nordcloud Oy](www.nordcloud.com)
+- 🔭 Cloud Architect at [Nordcloud Oy](www.nordcloud.com)
 
 - 🌱 I’m currently working with **AWS, Azure Active Directory and Terraform Cloud**
 
