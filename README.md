@@ -19,7 +19,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 </p>
 
 <h3 align="left">Experienced in Technologies:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> </a> 
+  <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/azure-2.svg" alt="azure" width="40" height="40"/> </a> 
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
@@ -50,5 +50,12 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
   <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch" width="40" height="40"/> </a> 
 </p>
 <h1></h1>
+
+<h1></h1>
+
+<p align="left">
+</p>
+<h3 align="left">Contact:</h3>
+<p align="middle"> <a href="makibria@gmail.com" target="_blank" rel="norefferrer" alt= "email" width="40" height="40"/> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameenkibria&show_icons=true&locale=en" alt="ameenkibria" /></p>
