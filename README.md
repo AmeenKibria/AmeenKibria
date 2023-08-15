@@ -51,11 +51,11 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 </p>
 <h1></h1>
 
-<h1></h1>
-
 <p align="left">
 </p>
 <h3 align="left">Contact:</h3>
 <p align="middle"> <a href="makibria@gmail.com" target="_blank" rel="norefferrer" alt= "email" width="40" height="40"/> </p>
+  
+<h1></h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameenkibria&show_icons=true&locale=en" alt="ameenkibria" /></p>
