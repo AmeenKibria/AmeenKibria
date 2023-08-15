@@ -57,7 +57,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 
 <h3 align="left">Contact me:</h3>
   <p align="middle"> 
-    <a href="makibria@gmail.com" target="_blank" rel="noreferrer"> </a>  
+    <a href="makibria@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> </a>  
 </p> 
 <h1></h1>
 
