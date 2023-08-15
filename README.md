@@ -58,7 +58,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 <h3 align="left">Contact me:</h3>
   <p align="middle"> 
     <a href="mailto: makibria@gmail.com"> Send Email </a>
-    <a href="tel:+1123-456-7890">123-456-7890</a>
+    <a href="tel:1123-456-7890"> 123-456-7890</a>
   </p> 
 <h1></h1>
 
