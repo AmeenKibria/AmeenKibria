@@ -27,7 +27,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jenkins-1.svg" alt="jenkins" width="40" height="40"/> </a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="github" width="40" height="40"/> </a> 
-  <a href="https://about.gitlab.com/" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="gitlab" width="40" height="40"/> </a> 
+  <a href="https://about.gitlab.com/" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="gitlab" width="40" height="40"/> </a> 
   
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="bash" width="40" height="40"/> </a>
