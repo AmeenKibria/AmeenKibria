@@ -16,7 +16,11 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 
 <p align="left">
 </p>
-
+<h3 align="left">IT Leadership Skills</h3>
+  - Cloud Navite IT Strategy
+  - Modern and Agile Way of Working
+  - Innovation
+  
 <h3 align="left">Experienced in Technologies:</h3>
   <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="40" height="40"/> </a> 
