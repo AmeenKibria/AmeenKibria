@@ -57,8 +57,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 
 <h3 align="left">Contact me:</h3>
   <p align="middle"> 
-    <a href="mailto: makibria@gmail.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/mail-ios.svg" alt="mail" width="40" height="40"/> </a>  
-    <a href="mailto: makibria@gmail.com" target="_blank" rel="noreferrer"> <Send Email alt="mail" width="40" height="40"/> </a>  
+    <a href="mailto: makibria@gmail.com"> Send Email</a>
 </p> 
 <h1></h1>
 
