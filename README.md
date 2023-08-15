@@ -59,7 +59,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
   <p align="middle"> 
     <a href="tel:6031112298"></a>
     
-    <a href="mailto: makibria@gmail.com" target="_blank" rel="noreferrer"> Send Email </a>
+  #  <a href="mailto: makibria@gmail.com" target="_blank" rel="noreferrer"> Send Email </a>
   </p> 
 <h1></h1>
 
