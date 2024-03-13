@@ -5,11 +5,12 @@
 I am looking for a technical lead role who has wide knowledge about IT infrastructure, multi-cloud environments, cloud native solutions, automation and integration, DevOps, IaC, CI/CD and monitoring solutions. I am motivated to learn and develop my skill set according to business need. I have excellent interpersonal and technical skills, I am highly self motivated and I have analytical & hands-on approach to solve different problems.</p>
 
 <h1></h1>
-- 🔭 Platforms Architect at [Vincit Oyj](www.vincit.fi) 2024-Present
+
+- 🔭 **Platforms Architect at [Vincit Oyj](www.vincit.fi) 2024-Present**
 
 - 🔭 Cloud Architect at [Nordcloud Oy](www.nordcloud.com) 2021-2024
 
-- 🔭 DevOps Engineer at [TCS](https://www.tcs.com/).com) 2020-2021
+- 🔭 DevOps Engineer at [TCS](https://www.tcs.com/) 2020-2021
 
 - 🔭 Production Team Lead at [Lindstromgroup](https://lindstromgroup.com/fi/comforta/) 2015-2020
 
