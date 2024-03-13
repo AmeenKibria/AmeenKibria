@@ -5,12 +5,19 @@
 I am looking for a technical lead role who has wide knowledge about IT infrastructure, multi-cloud environments, cloud native solutions, automation and integration, DevOps, IaC, CI/CD and monitoring solutions. I am motivated to learn and develop my skill set according to business need. I have excellent interpersonal and technical skills, I am highly self motivated and I have analytical & hands-on approach to solve different problems.</p>
 
 <h1></h1>
+- 🔭 Platforms Architect at [Vincit Oyj](www.vincit.fi) 2024-Present
 
-- 🔭 Cloud Architect at [Nordcloud Oy](www.nordcloud.com)
+- 🔭 Cloud Architect at [Nordcloud Oy](www.nordcloud.com) 2021-2024
 
-- 🌱 I’m currently working with **AWS, Azure Active Directory and Terraform Cloud**
+- 🔭 DevOps Engineer at [TCS](https://www.tcs.com/).com) 2020-2021
 
-- 👯 I’m looking to collaborate on **Platform Development/Enhancement Lead Role**
+- 🔭 Production Team Lead at [Lindstromgroup](https://lindstromgroup.com/fi/comforta/) 2015-2020
+
+- 🔭 Product Manager at [ServerSupply](https://www.serversupply.com/) 2009-2013
+
+- 🌱 I’m currently working with **Multi Cloud Platform Engineering focused to SAP and Kubernetes**
+
+- 👯 I’m looking to collaborate on **Cloud Governance, Security and Compliance implementation OR Platform Development/Enhancement Lead Role**
 
 - 📄 Know about my experiences [Linkedid](https://www.linkedin.com/in/makibria/)
 
@@ -21,10 +28,12 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 ## IT Leadership Skills
 
   - **Cloud Navite IT Strategy**
-  
+    
   - **Modern and Agile Way of Working**
     
   - **Innovation**
+  
+  - **Smooth IT Project Delivery**
     
   
 ## Experienced in Technologies:
