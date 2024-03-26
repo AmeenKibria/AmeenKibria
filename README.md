@@ -20,7 +20,7 @@ I am looking for a technical lead role who has wide knowledge about IT infrastru
 
 - 👯 I’m looking to collaborate on **Cloud Governance, Security and Compliance implementation OR Platform Development/Enhancement Lead Role**
 
-- 📄 Know about my experiences [Linkedid](https://www.linkedin.com/in/makibria/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/makibria/)
 
 
 <p align="left">
